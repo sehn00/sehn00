@@ -8,5 +8,4 @@ I’m passionate about **embedded systems** and currently aspiring to become a *
 ## 🌱 Currently Learning  
 - ⚡ C / C++ for embedded systems  
 - 🐧 Linux basics & system programming  
-- 🔧 Git & GitHub workflows  
 - 🛠️ Device drivers and BSP fundamentals  
