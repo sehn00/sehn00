@@ -1,8 +1,9 @@
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-My name is **Sehyeon Choi**, an undergraduate student in the Department of Electrical and Electronics Engineering at **Chung-Ang University**.  
-I’m passionate about **embedded systems** and recently diving deep into the world of AI and edge intelligence.
+Hi, I'm **Sehyeon Choi**, an undergraduate student in the Department of Electrical and Electronics Engineering at **Chung-Ang University**.  
+I'm passionate about embedded software development and have an interest in semiconductor technologies.
 
-## 🌱 Currently Learning  
-- ⚡ C / C++ for embedded systems  
-- 🐧 Linux basics & BSP fundamentals  
+## 📝 Currently Learning
+- ⚡ C / C++ for Embedded Systems
+- 🐧 Linux & BSP Fundamentals
+- 💡 IC Design & Semiconductor Fabrication
