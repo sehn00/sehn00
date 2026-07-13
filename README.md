@@ -6,4 +6,3 @@ I’m passionate about **embedded systems** and recently diving deep into the wo
 ## 🌱 Currently Learning  
 - ⚡ C / C++ for embedded systems  
 - 🐧 Linux basics & BSP fundamentals  
-- 🤖 VLA-based embodied AI and Edge AI workflows
