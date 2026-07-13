@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi, I'm **Sehyeon Choi**, an undergraduate student in the Department of Electrical and Electronics Engineering at **Chung-Ang University**.  
+Hi, I'm **Sehyeon Choi**, a senior majoring in Electrical and Electronics Engineering at **Chung-Ang University.**
 I'm passionate about embedded software development and have an interest in semiconductor technologies.
 
 ## 📝 Currently Learning
