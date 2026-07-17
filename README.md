@@ -1,8 +1,10 @@
-## 👋 Hi, I'm Sehyeon
+## About Me
+
+Hi, I'm Sehyeon Choi,
 
 Electrical and Electronics Engineering senior at Chung-Ang University. 
 
-I'm interested in:
+## I'm interested in:
 
 - ⚙️ Embedded Systems 
 - 🐧 Linux & BSP 
