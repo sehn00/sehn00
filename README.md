@@ -1,9 +1,12 @@
-## 👨‍💻 About Me
+## 👋 Hi, I'm Sehyeon
 
-Hi, I'm **Sehyeon Choi**, a senior majoring in Electrical and Electronics Engineering at **Chung-Ang University.**  
-I'm passionate about embedded software development and have an interest in semiconductor technologies.
+Electrical and Electronics Engineering senior at Chung-Ang University. 
 
-## 📝 Currently Learning
-- ⚡ C / C++ for Embedded Systems
-- 🐧 Linux & BSP Fundamentals
-- 💡 IC Design & Semiconductor Fabrication
+I'm interested in:
+
+- ⚙️ Embedded Systems 
+- 🐧 Linux & BSP 
+- 🖥️ Computer architecture & HW-SW Integration
+- 💡 IC Design & Semiconductor Fabrication 
+
+Currently building projects around embedded systems and exploring semiconductor technologies.
