@@ -29,34 +29,6 @@ My experience spans MCU and FPGA-based systems as well as hands-on semiconductor
 
 ---
 
-## Selected Projects
-
-### [SAR ADC Switch & Comparator Design](https://github.com/sehn00/sar-adc-switch-comparator-design)
-6-bit, 10-MS/s SAR ADC in 500 nm CMOS  
-- Bootstrapped sampling switch and comparator design
-- Delay, power, and minimum resolvable input comparison
-- Research results documented as a conference paper
-
-### [Modulino Hub Test Firmware](https://github.com/sehn00/modulino-hub-test-firmware)
-ESP32-S3 diagnostic firmware for system bring-up and communication validation  
-- UART / Wi-Fi / MQTT / JSON-RPC validation
-- Default-deny G-code safety policy
-- Test Plan, Procedure, and Results documentation
-
-### [COSS SDGs Competition](https://github.com/sehn00/COSS-SDGs-Competition)
-ESP32-based non-contact assistance system  
-- RSSI-based proximity classification
-- Embedded hardware and wireless communication
-- **1st Prize, COSS SDGs Competition**
-
-### [K-means Hardware Accelerator](https://github.com/sehn00/kmeans-hardware-accelerator)
-RISC-V / FPGA based hardware accelerator  
-- APB memory-mapped custom IP
-- RTL simulation and FPGA prototyping
-- **7.43× speedup** over software-only implementation
-
----
-
 ## Tech
 
 **C · C++ · Python · Verilog HDL**  
